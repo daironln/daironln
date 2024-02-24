@@ -1,5 +1,6 @@
 <div align="center">
   <h1 align="center">Hola, soy Dairon Luis 👋</h1>
+  <img src="img.png" alt="Mi imagen" width="500" height="400">
 </div>
 
 # ✨ About me:
