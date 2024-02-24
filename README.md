@@ -2,7 +2,7 @@
   <h1 align="center">Hola, soy Dairon Luis 👋</h1>
 </div>
 
-# ✨ Sobre mi:
+# ✨ About me:
 🚀 ¡Hola! Soy un apasionado ingeniero en Ciencias Informáticas y desarrollador de videojuegos y software con sede en Cuba.<br><br>💻 Con tan solo 20 años, cuento con experiencia sólida en la creación de emocionantes videojuegos y potentes soluciones de software. Desde la programación hasta el diseño de experiencias de usuario cautivadoras, me apasiona cada detalle del proceso de desarrollo.<br><br>🎮 Mi amor por los videojuegos me impulsa a explorar nuevas tecnologías y tendencias en este campo en constante evolución. Me encanta desafiar los límites y trabajar en equipo para llevar estas ideas creativas a la vida digital.<br><br>🌟 Estoy en búsqueda de oportunidades para colaborar en proyectos innovadores donde pueda aportar mis habilidades técnicas y mi mentalidad creativa. La posibilidad de seguir aprendiendo y creciendo profesionalmente es lo que me impulsa cada día.<br><br>🔧 Si estás buscando a alguien apasionado, comprometido y con sed de conocimiento para unirse a tu equipo o contribuir a tus proyectos, ¡contáctame! Estoy listo para sumergirme en desafíos increíbles y hacer cosas asombrosas juntos.<br><br>🚀 ¡Vamos a crear el próximo gran hit de los videojuegos y software juntos!
 
 
